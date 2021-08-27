@@ -1,0 +1,33 @@
+body{
+
+	background-color: blue;
+	color: #fff;
+	margin-left: 08%;
+	margin-right: 08%;
+}
+h1{
+	color: 		#00FFFF;
+	text-align: center;
+	font-style: italic;
+
+
+}
+
+p{
+
+	font-size: 17px;
+	font-style:normal;
+	text-align: justify;
+
+}
+img{
+	width: 60%;
+}
+figure{
+	text-align: center;
+}
+h2{
+	color: #40E0D0;
+	font-style: oblique;
+
+}
